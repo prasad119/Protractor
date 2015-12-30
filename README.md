@@ -1,5 +1,5 @@
 # Protractor
-Protractor installation process
+    											Protractor installation process
 download node.js from the following link:32 bit
 https://nodejs.org/dist/v4.2.4/node-v4.2.4-x86.msi
 -->install node.js in your system
