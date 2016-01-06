@@ -8,7 +8,7 @@ To set up protractor, we need to install below three things
 
 3. Selenium Webdriver
 
-
+=============================================================
 Step 1: First we have to install NodeJS. 
 
-https://nodejs.org/dist/v4.2.4/node-v4.2.4-x86.msi
+Please click here to download node.js https://nodejs.org/dist/v4.2.4/node-v4.2.4-x86.msi
